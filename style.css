@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+body{
+    background-color: #DDDDDD;
+
+}
+
+.image{
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.image img{
+    border-radius: 20px;
+    
+}
+.card{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    background-color: #222831;
+    flex-direction: column;
+    margin: auto;
+    width: fit-content;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    
+}
+
+.objective{
+    margin: 60px;
+    background-color: #30475E;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.table{
+    background-color: #30475E;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+
+td,tr,th{
+    padding: 10px;
+    
+}
+
+.altrow{
+    background-color: #064663;
+}
+
+table{
+    border: #F05454;
+}
